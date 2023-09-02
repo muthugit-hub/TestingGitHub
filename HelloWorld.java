@@ -14,5 +14,7 @@ public static void main(String[] args){
 HelloWorld h = new HelloWorld();
   h.welcome();
   h.drinks();
+  System.out.println("Jenkins running successfully");
+
 }
 }
