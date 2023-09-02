@@ -6,6 +6,8 @@ public class HelloWorld{
   public void drinks(){
   System.out.println("Given WelCome Drinks");
     System.out.println("Given Snacks");
+        System.out.println("All are taken");
+
   }
 
 public static void main(String[] args){
