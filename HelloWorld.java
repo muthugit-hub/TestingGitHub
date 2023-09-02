@@ -5,6 +5,7 @@ public class HelloWorld{
   }
   public void drinks(){
   System.out.println("Given WelCome Drinks");
+    System.out.println("Given Snacks");
   }
 
 public static void main(String[] args){
